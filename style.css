@@ -127,7 +127,7 @@ li a:hover{
     }
   }
 .bg2{
-    background-image: linear-gradient(rgb(0, 0, 0),rgba(0, 0, 0, 0.697)), url('./medias/1_PI11.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.568),rgba(0, 0, 0, 0.697)), url('./medias/1_PI11.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
